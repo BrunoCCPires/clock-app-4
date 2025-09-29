@@ -1,27 +1,18 @@
 .clock-container {
-  width: 100vw;
-  height: 100vh;
+  background-color: #0066cc;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
-  background: #000;
-  color: #fff;
-  margin: 0;
-  padding: 0;
+  justify-content: center;
+  color: white;
 }
 
 .clock {
-  font-size: 8vw;
-  font-weight: bold;
-  margin: 20px 0;
+  font-size: 3rem;
+  margin: 1rem 0;
 }
 
 .date {
-  font-size: 4vw;
-}
-
-h1 {
-  font-size: 5vw;
-  margin: 0;
+  font-size: 1.5rem;
 }

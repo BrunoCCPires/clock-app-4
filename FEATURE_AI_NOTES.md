@@ -1,1 +1,1 @@
-Added fullscreen styles with viewport units and reset CSS
+Added App.css with blue background and basic styling
